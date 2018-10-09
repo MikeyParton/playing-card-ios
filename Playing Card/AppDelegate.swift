@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Playing Card
+//  PlayingCard
 //
 //  Created by Michael Parton on 13/8/18.
 //  Copyright © 2018 Michael Parton. All rights reserved.
